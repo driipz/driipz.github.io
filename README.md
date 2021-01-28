@@ -1,2 +1,2 @@
 # driipz.me
-##Easy to do personal Website
+## Easy to do personal Website
